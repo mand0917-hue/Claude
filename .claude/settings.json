@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "chatcut-inc": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/ChatCut-Inc/agent-plugin.git"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "chatcut@chatcut-inc": true
+  }
+}
