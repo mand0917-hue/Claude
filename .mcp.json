@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "notebooklm": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "notebooklm-mcp@latest"],
+      "env": {}
+    }
+  }
+}
